@@ -31,7 +31,7 @@ This project is a tool for list movies. In this app is possible select movie by 
 
 ## :mag_right: Getting Started
 
-For start you need install Node.js (v.14.15.4) and Yarn (1.22.5). <br />
+To start you need install Node.js (v.14.15.4) and Yarn (1.22.5). <br />
 Now you can run this app with the following commands below:
 
 ```terminal
